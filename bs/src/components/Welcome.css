@@ -1,0 +1,35 @@
+body {
+  margin: 70px;
+  border: 1px solid black;
+}
+div {
+  /* float: center; */
+
+  height: 600px;
+  /* width: 80%; */
+}
+#para {
+  color: brown;
+  margin-left: 10px;
+  width: 50%;
+  text-align: left;
+  margin-top: 20px;
+}
+h1,
+h2 {
+  text-decoration: underline;
+  margin-top: 20px;
+}
+button {
+  color: red;
+  background-color: yellow;
+}
+img {
+  /* position: absolute; */
+}
+#b1 {
+  margin-top: 50px;
+}
+p {
+  margin-top: 20px;
+}
